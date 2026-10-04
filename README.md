@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Piyush Mandhare
+# Hi there! 👋 I'm kartik kapadnis
 
 ### 🎓 Engineering Student | Aspiring Developer
 
@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 ## 👨‍💻 About Me
 
 - 🏫 Studying at **Sinhgad Institute of Technology**
-- 🌱 Currently learning **Python, Git & GitHub**
-- 💻 Interested in **Software Development + AI Integration**
+- 🌱 Currently learning **Python, Git & GitHub,android**
+- 💻 Interested in **Software Development + python developer**
 - 🎯 Goal: **Build useful projects and improve my coding skills**
 - 🤝 Open to learning and collaborating with other developers
 
@@ -18,15 +18,14 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![android](https://uxwing.com/android-studio-icon/)
 
 ## 🚀 My Projects
 
-- **My First Project** — JanSetu AI  [View project](https://github.com/piyush-devx10/HackersX-JanSetu-AI)
+- **My First Project** — JanSetu AI  [View project](repo:kartikkapadnis27/code-and-commit-day-2)
 
 ## 📫 Connect With Me
-
-- 💻 GitHub: [@piyush-devx](https://github.com/piyush-devx10)
-- 🔗 LinkedIn: [Piyush Mandhare](https://www.linkedin.com/in/piyush-mandhare-8192b234a/)
-
+- 🔗 LinkedIn: [kartik kapadnis](https://www.linkedin.com/in/kartik-kapadnis-6a73b5393)
+- email : kartikkapadnis@27gmail.com 
 ---
 ⭐ Thanks for visiting my profile! Keep learning and keep building. 🚀
