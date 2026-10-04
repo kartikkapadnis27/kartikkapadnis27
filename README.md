@@ -22,10 +22,11 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 
 ## 🚀 My Projects
 
-- **My First Project** — JanSetu AI  [View project](repo:kartikkapadnis27/code-and-commit-day-2)
+- **My First Project** — student managment system [View project](kartikkapadnis27/code-and-commit-day-2)
 
 ## 📫 Connect With Me
 - 🔗 LinkedIn: [kartik kapadnis](https://www.linkedin.com/in/kartik-kapadnis-6a73b5393)
-- email : kartikkapadnis@27gmail.com 
+- email : kartikkapadnis@27gmail.com
+- Git Hub: (https://github.com/kartikkapadnis27)
 ---
 ⭐ Thanks for visiting my profile! Keep learning and keep building. 🚀
