@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 
 ## 🚀 My Projects
 
-- **My First Project** — student managment system [View project](kartikkapadnis27/code-and-commit-day-2)
+- **My First Project** — student managment system [View project](https://github.com/kartikkapadnis27/code-and-commit-day-2/commit/adbe89400c53ccb1d2ef0df2d1e1a33385548400))
 
 ## 📫 Connect With Me
 - 🔗 LinkedIn: [kartik kapadnis](https://www.linkedin.com/in/kartik-kapadnis-6a73b5393)
